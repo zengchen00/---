@@ -17,7 +17,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://118.31.11.178:3306/timo?useSSL=false&characterEncoding=utf-8
     username: root
-    password: Shenqi123
+    password: 123456
 
 ## jpa配置
   jpa:
